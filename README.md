@@ -1,1 +1,5 @@
-# covid-19-data-analysis-using-python
+# COVID-19 Data Analysis using Python
+Data analysis using Python is performed on COVID-19 dataset published by John Hopkins University, which consists of the data related to the cumulative number of confirmed cases per day in each Country. Additionally, we have World Happiness Report dataset which consist of various life factors, scored by the people living in each country around the globe. The datasets were preprocessed to calculate needed measures and prepare them for analysis. Both the datasets were merged to find if there is any relationship between the spread of the virus in a country and how happy people are living in that country.
+
+# Contact
+<a href="mailto:sanghvi_kavish@yahoo.in">Email</a> | <a href="https://www.linkedin.com/in/kavishsanghvi">LinkedIn</a> | <a href="https://kavishsanghvi.github.io">Website</a> | <a href="https://www.medium.com/@kavishsanghvi">Medium</a> | <a href="https://twitter.com/kavishsanghvi25">Twitter</a> | <a href="https://www.facebook.com/kavish.sanghvi.5">Facebook</a> | <a href="https://www.instagram.com/kavishsanghvi96">Instagram</a>
